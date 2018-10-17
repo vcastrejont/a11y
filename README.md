@@ -226,3 +226,7 @@ Yes, a  recent [study of 1782 screen reader users](https://webaim.org/projects/s
 ### Audit tools are enough for test accessibility?
 
 No, although these tools are good to detect most of the problems sometimes they can report false positive issues, in the same way they are not good detecting interaction issues like keyboard events
+
+
+## Exercise
+[Link](exercise/index.html) 
